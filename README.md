@@ -1,4 +1,4 @@
 # graphic-era
-this is demo repo
+this is demo reporisitry
 <br>
 Author-Yash Pandey
