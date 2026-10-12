@@ -1,0 +1,7 @@
+# Environment variables
+.env
+Backend/.env
+
+# Python cache
+__pycache__/
+*.pyc
